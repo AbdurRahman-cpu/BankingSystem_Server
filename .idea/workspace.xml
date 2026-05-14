@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8f85a37-6056-4538-a48d-c95668476e8e" name="Changes" comment="Created user,account models controllers,routes and tested on postman" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AbdurRahman-cpu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AbdurRahman-cpu/BankingSystem_Server.git",
+    "accountId": "9e28fd94-2394-4879-ae2d-c8ac225d3a16"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3DZGEuETG2YkIXpxAs2d7m9y7XX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.auth.routes.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\MOHAMMED ABDURRAHMAN\\AppData\\Local\\Programs\\WebStorm 2025.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MOHAMMED ABDURRAHMAN\WebstormProjects\BankServer\src" />
+      <recent name="C:\Users\MOHAMMED ABDURRAHMAN\WebstormProjects\BankServer" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f85a37-6056-4538-a48d-c95668476e8e" name="Changes" comment="" />
+      <created>1778482070230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778482070230</updated>
+      <workItem from="1778482071258" duration="476000" />
+      <workItem from="1778483646177" duration="58000" />
+      <workItem from="1778483712114" duration="100000" />
+      <workItem from="1778483825507" duration="48000" />
+      <workItem from="1778483888739" duration="506000" />
+      <workItem from="1778484409873" duration="592000" />
+      <workItem from="1778507916562" duration="373000" />
+      <workItem from="1778508309806" duration="551000" />
+      <workItem from="1778509291660" duration="112000" />
+      <workItem from="1778509440915" duration="43000" />
+      <workItem from="1778509504756" duration="1415000" />
+      <workItem from="1778565144522" duration="74000" />
+      <workItem from="1778565284575" duration="194000" />
+      <workItem from="1778565510861" duration="2000" />
+      <workItem from="1778565603974" duration="59000" />
+      <workItem from="1778565688699" duration="280000" />
+      <workItem from="1778566036607" duration="3065000" />
+      <workItem from="1778592984071" duration="2427000" />
+      <workItem from="1778652418440" duration="1196000" />
+      <workItem from="1778655363208" duration="306000" />
+      <workItem from="1778657184080" duration="773000" />
+      <workItem from="1778679518610" duration="1759000" />
+      <workItem from="1778737619045" duration="2845000" />
+      <workItem from="1778741011259" duration="1596000" />
+      <workItem from="1778772883730" duration="1321000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created user,account models controllers,routes and tested on postman">
+      <option name="closed" value="true" />
+      <created>1778774204196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778774204196</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="Created user,account models controllers,routes and tested on postman" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created user,account models controllers,routes and tested on postman" />
+  </component>
+</project>
