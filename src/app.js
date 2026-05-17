@@ -11,4 +11,9 @@ app.use('/api/auth',authRouter)
 app.use('/api/account',accountRouter)
 app.use('/api/transaction',transactionRouter)
 
+
+app.get('/',(req,res)=>{
+    res.send("Ledger service is up and running ❤️")
+})
+
 module.exports = app
